@@ -1,0 +1,39 @@
+{
+  "name": "filesize",
+  "description": "Immutable file size value",
+  "version": "0.1.0",
+  "homepage": "https://github.com/astream/filesize",
+  "author": {
+    "name": "Andrea Parodi",
+    "email": "andrea.parodi@ebansoftware.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/astream/filesize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astream/filesize/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "lib/filesize",
+  "engines": {
+      "node": ">=0.10.26",
+      "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "gulp": "~3.8.6",
+    "gulp-mocha": "~0.5"
+
+  },
+  "keywords": []
+}
