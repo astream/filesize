@@ -12,7 +12,7 @@ var chai = require('chai');
 chai.expect();
 chai.should();
 
-var FileSize = require('../lib/filesize.js');
+var FileSize = require('..');
 
 describe('FileSize', function(){
     it('is defined', function(){
