@@ -1,5 +1,5 @@
 {
-  "name": "filesize",
+  "name": "filesize-unit",
   "description": "Immutable file size value",
   "version": "0.1.0",
   "homepage": "https://github.com/astream/filesize",

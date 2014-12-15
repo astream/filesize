@@ -2,7 +2,7 @@
 
 Immutable file size value
 
-[![Build Status](https://secure.travis-ci.org/astream/filesize.png?branch=master)](http://travis-ci.org/astream/filesize) [![NPM version](https://badge-me.herokuapp.com/api/npm/filesize.png)](http://badges.enytc.com/for/npm/filesize) 
+[![Build Status](https://secure.travis-ci.org/astream/filesize.png?branch=master)](http://travis-ci.org/astream/filesize) [![NPM version](https://badge-me.herokuapp.com/api/npm/filesize-unit.png)](http://badges.enytc.com/for/npm/filesize-unit) 
 
 ## Getting Started
 Install the module with: `npm install filesize`
